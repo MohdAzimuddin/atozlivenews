@@ -18,7 +18,7 @@ This is a responsive news web application that fetches the latest news articles 
 - **CSS (with Media Queries)**: For styling and responsive design.
 - **JavaScript (ES6)**: For handling dynamic content fetching and interactions.
 
-## Installation
+## Installation 
 
 To run this project locally, follow these steps:
 
