@@ -14,7 +14,7 @@ const NewsupButton = () => {
 
   // Scroll the page to the top
   const scrollToTop = () => {
-    window.scrollTo({
+    window.scrollTo({ 
       top: 0,
       behavior: "smooth",
     });
