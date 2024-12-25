@@ -139,3 +139,4 @@ const NewsApi = () => {
 };
 
 export default NewsApi;
+  
